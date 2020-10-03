@@ -1,0 +1,1 @@
+device specific charm details screen flickering build v40 13thjune device moto g3 601 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open charm ticket observe actual charm details screen flickering expected charm details screen flicker

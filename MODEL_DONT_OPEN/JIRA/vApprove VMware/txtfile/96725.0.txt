@@ -1,0 +1,1 @@
+android specificlookup screen scrollable build version vapproveqa14sept1card layout 289 device tested nexus 5x601samsung galaxy edge 601 user sdeswal preconditions 1 vapprove card layout app installed android devices steps reproduce 1 install launch app 2 scroll observe actual lookup screen scrollable expected lookup screen scrollable iphone

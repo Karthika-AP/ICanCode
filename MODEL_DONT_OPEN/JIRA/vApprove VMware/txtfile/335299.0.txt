@@ -1,0 +1,1 @@
+descriptiondetails tab expanded view informations displayed properly build v426 device oneplus2 601 steps 1 install luanch app app 2 login app 3 open expanded view quote num 417560 4 descriptiondetail icon 5 observe actual descriptiondetails tab expanded view informations displayed properly expected descriptiondetails tab expanded view informations displayed properly

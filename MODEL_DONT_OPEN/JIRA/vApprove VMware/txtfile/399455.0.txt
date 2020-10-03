@@ -1,0 +1,1 @@
+able save expense preferences prompt status url httpsimplementationconcursolutionscomexpenseprofileexpensepreferenceasp loginid sdeswalvmwareqa steps 1 login onto portal 2 tap profile 3 go expense preferences 4 check prompt 5 click save button 6 refresh observe note due issue able test concur faq flow

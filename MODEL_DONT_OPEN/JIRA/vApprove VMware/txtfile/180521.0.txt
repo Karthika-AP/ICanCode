@@ -1,0 +1,1 @@
+loading activity log screen smooth device moto g3 os v601 app version v10 steps reproduce 1 install app 2 login app 3 tap activity logs icon observe actual loading activity log screen smooth expected loading activity log screen smooth

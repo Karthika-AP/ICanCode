@@ -1,0 +1,1 @@
+ticket getting opened performing left swipe action single ticket list build v412 device iphone 6103 steps 1 login app 2 lets dashboard gets loaded 3 swipe card service provider one ticket 4 observe actual ticket getting opened performing left swipe action single ticket list expected swipe action open card

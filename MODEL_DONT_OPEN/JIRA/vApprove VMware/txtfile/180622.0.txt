@@ -1,0 +1,1 @@
+session timeout handled device iphone 6s ios 1021 app version v10 steps reproduce 1 install app 2 login app 3 put app background till session expires 4 relaunch app observe 5 pull refresh observenothing happens pull refresh actual session timeout handled expected session timeout handled user get navigated login screen

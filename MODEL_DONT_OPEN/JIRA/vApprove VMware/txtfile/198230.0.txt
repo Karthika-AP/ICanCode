@@ -1,0 +1,1 @@
+dashboard flickers 3 times refreshing build v401 device iphone 6s new ipad mini retina steps 1 login app 2 lets dashboard gets loaded 3 perform pull refresh observe 4 put app background 5 tap push notifications received earlier 6 observe actual dashboard flickers 3 times refreshing expected dashboard flicker

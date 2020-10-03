@@ -1,0 +1,1 @@
+keypad ticket getting closed together cancel approvereject build v40 13thjune device nexus 5x70 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 tap approvereject button 5 tap back button observe actual keypad ticket getting closed together cancel approvereject expected keypad ticket close together cancel approvereject

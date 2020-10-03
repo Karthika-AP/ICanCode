@@ -1,0 +1,1 @@
+android tapping lookup button sso login screen without entering email id display error pop build 10 device nexus 5x v 70 steps launch app sso login screen tap login button without entering email observe actual app display error pop user hits login button without entering email

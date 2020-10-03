@@ -1,0 +1,1 @@
+activity logs flickers nothing logs build v41 device iphone 7 ipad mini retina map user id user perform approvalrejection eg jainils steps 1 login app 2 tap activity logs icon 3 observe actual activity logs flickers nothing logs expected activity logs flickers nothing logs

@@ -1,0 +1,1 @@
+currency code displayed card details screen currency code usd build 22nd may v40 devices nexus 6p create two coupa tickets one usd eur steps 1 login app 2 lets dashboard gets loaded 3 observe coupa ticket actual eur currency code displayed second card expected eur currency code displayed second card details screen

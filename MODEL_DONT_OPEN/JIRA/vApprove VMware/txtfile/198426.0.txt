@@ -1,0 +1,1 @@
+back button opens another card instead dashboard screen build v41 device iphone 7 steps 1 login app 2 lets dashboard gets loaded 3 tap two cards simultaneously 4 tap back button observe actual back button opens another card instead dashboard screen expected back button open dashboard screen

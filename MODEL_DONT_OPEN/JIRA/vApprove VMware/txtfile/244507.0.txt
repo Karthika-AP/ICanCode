@@ -1,0 +1,1 @@
+app crashes user changes preference build v422 device nexus 5x711 steps 1 install app 2 login app 3 make sure services disabled dashboard dont see approval 4 enable required services save changes preferences screen 5 come dashboard screen observe actual app crashes use change preference expected app must crash

@@ -1,0 +1,1 @@
+activity log screen flickers ipad activity log empty builds v403 device ipad mini retina steps 1 launch login app 2 lets dashboard gets loaded 3 tap activity logs screen observe actual activity log screen flicker ipad activity log empty expected activity log screen flicker

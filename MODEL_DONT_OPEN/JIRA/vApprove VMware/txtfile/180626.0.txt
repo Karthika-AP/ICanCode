@@ -1,0 +1,1 @@
+sso login working device iphone 6s ios 1021 app version v10 steps reproduce 1 install stage mdm certificates airwatch agent app 2 install app 3 enter emailid look screen 4 tap login button login screen 5 observe actual sso login working expected sso login ask username password read kerberos certificate auto login

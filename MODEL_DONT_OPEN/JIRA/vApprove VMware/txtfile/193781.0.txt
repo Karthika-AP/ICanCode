@@ -1,0 +1,1 @@
+able change preferences old version app appc v35 build qa v35 steps 1 login app dhirendrag 2 go preference 3 enable coupa tap save button 4 observe actual able change preferences old version app appc v35 expected functionality work old version app

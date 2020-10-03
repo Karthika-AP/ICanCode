@@ -1,0 +1,1 @@
+app crashes pull refresh build vapprovevmwareqa24apr2017b1 device iphone 6s1021 iphone 6 1031 steps 1login app 2 lets dashboard gets loaded 3 pulltorefresh put app background refreshing 4 relaunch app observe actual app crashes pull refresh expected app crash pull refresh

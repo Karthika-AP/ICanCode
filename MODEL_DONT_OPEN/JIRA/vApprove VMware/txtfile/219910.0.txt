@@ -1,0 +1,1 @@
+empty dashboard displayed relogin session times build 27june device samsung galaxy j7601 steps 1 login app 2 use app till session expires 3 session expires error popup comes 4 tap cancel button error popup 5 relogin app 6 observe dashboard

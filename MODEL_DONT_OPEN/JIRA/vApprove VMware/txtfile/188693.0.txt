@@ -1,0 +1,1 @@
+tap look button without entering email keypad opens closes build vapprovevmwareqa28apr2017b1 device iphone 6 102 steps 1 install launch app 2 tap lookup button without entering anything 3 observe actual tap lookup button without entering email keypad opens closes expected tap lookup button without entering email keypad open

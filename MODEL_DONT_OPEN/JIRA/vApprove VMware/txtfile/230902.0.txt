@@ -1,0 +1,1 @@
+approvedrejected tickets data come activity logs immediately user check activity logs approvalrejection build v400 device nexus 5x steps 1 install login app 2 tap one tickets 3 approvereject 4 go activity logs observe actual approvedrejected tickets data come activity logs immediately user check activity logs approvalrejection

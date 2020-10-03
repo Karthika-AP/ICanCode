@@ -1,0 +1,1 @@
+approvers number showing incorrectly approval chain tab build v425qa device iphone 6 ios 1033 moto g5 plus 70 steps 1 install login app 2 expand gdr approval ticket 3 tap approval chain tab actual multiple number approver shown wrong expected number approver match total number mentioned tab

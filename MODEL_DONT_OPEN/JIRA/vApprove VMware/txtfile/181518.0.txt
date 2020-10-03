@@ -1,0 +1,1 @@
+android view loading ioveralapping homescreen build 10 device nexus 5x v 70 steps launch app home screen gets fully loaded try scrolling screen observe actual view loading overlaps pfa screenshot

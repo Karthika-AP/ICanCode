@@ -1,0 +1,1 @@
+android pull refresh animation working expected build 10 device nexus 5x v 70 steps launch app pull home screen refresh observe overall animation actual animation expected match mock ups provided

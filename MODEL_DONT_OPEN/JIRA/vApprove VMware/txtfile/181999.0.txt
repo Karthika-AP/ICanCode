@@ -1,0 +1,1 @@
+android app crashes user scrolls screen first time installation build 10 device nexus 5x v 70 steps install app get logged home screen data loads scroll screen observe actual app crashes user scrolls screen

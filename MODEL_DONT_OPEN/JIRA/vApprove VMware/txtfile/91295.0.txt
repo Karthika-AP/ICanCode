@@ -1,0 +1,1 @@
+android specificon ppm details screen ticket name getting cut build version vapproveqa20aug2card layout 288 device tested nexus 5 user manojkumar preconditions 1 vapprove card layout app installed ios devices steps 1 install launch app 2 open 212809 ppm ticket number 3 observe actual ppm details screen ticket name getting cut expected ppm details screen ticket name get cut

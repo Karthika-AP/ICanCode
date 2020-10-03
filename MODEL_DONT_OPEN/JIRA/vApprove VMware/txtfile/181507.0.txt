@@ -1,0 +1,1 @@
+android optional label approval comments missing build 10 device nexus 5x v 70 steps launch app select card home screen tap approve icon actual optional label displayed approval comments

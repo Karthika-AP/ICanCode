@@ -1,0 +1,1 @@
+jpeg attachment opens non readable format build v422 qa device iphone 6 ios 11 user dhirendrag sdeswal steps 1 create helpnow ticket jpeg attachment 2 install login app 3 lets dashboard gets loaded 4 open helpnow ticket created eg ritm2043522 5 try open jpeg attachment observe actual user able open jpeg attachment expected user able open jpeg attachment

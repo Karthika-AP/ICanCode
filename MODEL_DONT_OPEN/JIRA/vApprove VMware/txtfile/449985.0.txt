@@ -1,0 +1,1 @@
+ecms date field showing created time agreement build v435 steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 observe time displayed emcs card dashboard 5 open details screen ecms 6 created date displayed header info actual date field showing created time agreement expected date field created time agreement

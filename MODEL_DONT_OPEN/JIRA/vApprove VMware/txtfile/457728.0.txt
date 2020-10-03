@@ -1,0 +1,1 @@
+duplicate time coupa approval chain build vapproveqavappn20ipa device iphone 7 plus 1121 env qa user sdeswal steps 1 install launch app 2 login app sdeswal 3 open expanded view coupa ticket 4 tap approval tab observe actual duplicate row coupa approval chain expected duplicate data displayed pfa screesnshot

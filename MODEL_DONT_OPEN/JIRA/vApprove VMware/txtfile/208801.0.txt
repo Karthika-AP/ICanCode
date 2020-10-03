@@ -1,0 +1,1 @@
+intermittent continuous loading mask displayed activity log even data loaded device iphone 7 931 build v413 steps 1 login app 2 reject invoicesap ticket 3 pull refresh 4 tap activity logs icon 5 observe actual continuous loading mask displayed activity log even data loaded expected data displayed loading mask disappears

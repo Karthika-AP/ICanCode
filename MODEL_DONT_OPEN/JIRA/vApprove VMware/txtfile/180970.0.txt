@@ -1,0 +1,1 @@
+service provider header view overlaps device moto g3 os 1021 app version v10 steps reproduce 1 install app 2 login app dhirendrag 3 lets dashboard gets loaded 4 put app background 5 relaunch app pull refresh observe actual pull refresh counts pending request header gets double expected pull refresh counts pending request header consistent

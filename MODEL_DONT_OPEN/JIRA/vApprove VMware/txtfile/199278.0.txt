@@ -1,0 +1,1 @@
+app crash tapped profile icon pulltorefresh builds v402 device iphone 6 plus steps 1 launch login app 2 lets dashboard gets loaded 3 pull refresh 4 dashboard loading tap profile icon observe actual app crash tapped profile icon pulltorefresh expected app crash

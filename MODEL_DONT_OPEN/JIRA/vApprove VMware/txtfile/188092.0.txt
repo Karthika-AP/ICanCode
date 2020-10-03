@@ -1,0 +1,1 @@
+junk data displayed activity log build v40 device iphone 6 plus 1021 steps 1 install launch app 2 tap activity logs icon 3 observe activity logs screen actual update old app autologin working even though user logged older version app expected update old app autologin work

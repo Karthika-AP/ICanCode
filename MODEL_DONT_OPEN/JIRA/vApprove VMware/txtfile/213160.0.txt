@@ -1,0 +1,1 @@
+able login app build v35 device samsung galaxy s7 steps 1 install build 2 enter username password 3 tap login button 4 observe actual able login app expected user able login

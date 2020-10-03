@@ -1,0 +1,1 @@
+tcbobjaq1902sharedqavreportby validation ruleaq161 1 open bo report check layout standards per corresponding obiee report 2 check standard formatting number like number digits decimalprefix currency symbol text amp date short datelong date

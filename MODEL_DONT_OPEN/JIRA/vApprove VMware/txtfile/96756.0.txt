@@ -1,0 +1,1 @@
+incorrect walkthrough screen ipad 2 build version vapproveqa15sept1card layout 289 device tested nexus 5x601 ipad 2 1001 user sdeswal preconditions 1 vapprove card layout app installed android devices steps reproduce 1 install launch app 2 scroll third walkthrough observe actual incorrect walkthrough screen ipad 2 expected walkthrough screen consistent android ios

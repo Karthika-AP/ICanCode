@@ -1,0 +1,1 @@
+device registration working deleted database every launch check device registered reregister

@@ -1,0 +1,1 @@
+incorrect ticket submission time dashboard build v40 13thjune device nexus 5x70 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 observe ticket submission time actual incorrect ticket submission time dashboard expected time correct sync ios version app

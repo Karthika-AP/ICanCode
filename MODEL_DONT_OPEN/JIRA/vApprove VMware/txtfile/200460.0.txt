@@ -1,0 +1,1 @@
+incorrect pending request count displayed details screen build 22nd may steps 1 login app 2 select service provider 4 tickets 3 approve reject one 4 come back dashboard 5 go details screen 6 observe count actual incorrect count displayed details screen expected correct count displayed details screen

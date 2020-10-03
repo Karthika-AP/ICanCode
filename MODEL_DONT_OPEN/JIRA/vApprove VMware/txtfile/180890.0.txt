@@ -1,0 +1,1 @@
+pending requests count fails update ticket approved rejected build 10 device iphone 6s v1021 steps launch app observe pending request count approve reject card go home screen pull refresh observe pending request count actual pending requests count fails update pulling screen refresh

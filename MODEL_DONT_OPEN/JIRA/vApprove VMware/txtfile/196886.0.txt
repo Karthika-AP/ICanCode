@@ -1,0 +1,1 @@
+able test update scenarios package name appcelerator build device nexus 5x700 user sdeswal steps 1 install appc version build 2 try update build version v40native actual able test update scenarios package name appcelerator build expected user able upgrade v35 v40

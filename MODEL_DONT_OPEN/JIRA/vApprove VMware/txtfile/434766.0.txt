@@ -1,0 +1,1 @@
+vapprove qa sso hence api test ui test cases failing jenkins httpmbeiqavipvmwarecom8050oauthserveroauthauthorizeresponsetypecoderedirecturihttpmbeiqavipvmwarecom8050oauthserveraccessresponseclientidvapproveappidpvidm

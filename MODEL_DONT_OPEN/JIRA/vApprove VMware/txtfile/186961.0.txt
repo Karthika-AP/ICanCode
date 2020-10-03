@@ -1,0 +1,1 @@
+showing yellow icon statistics data build vapprovevmwareprod25apr2017b1 device iphone 6103 steps 1login app 2 lets dashboard gets loaded 3 tap profile icon 4 observe statistics data actual showing yellow icon statistics data data expected yellow icon displayed statistics data

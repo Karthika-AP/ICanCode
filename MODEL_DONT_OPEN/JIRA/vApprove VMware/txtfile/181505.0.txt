@@ -1,0 +1,1 @@
+android user logged spite adding entering valid email id build 10 device nexus 5x v 70 steps launch app enter valid email hit login button observe actual user stays screen thus get logged

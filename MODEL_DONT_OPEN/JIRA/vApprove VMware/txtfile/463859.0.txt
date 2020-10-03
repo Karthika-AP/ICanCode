@@ -1,0 +1,1 @@
+currently generated pipeline qa builds size increased 92mb 72mb build v437 env qa login dhirendrag device iphone 7 ios 12 steps 1 download build observe file size actual qa build size increased 92mb expected build size lesser

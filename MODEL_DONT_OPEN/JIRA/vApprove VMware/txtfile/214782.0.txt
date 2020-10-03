@@ -1,0 +1,1 @@
+scheduled push notifications coming build v40 13thjune device moto g3 601 iphone 6s user dhirendrag steps 1 install build 2 login app 3 lets dashboard gets loaded 4 put app background 10 mins observe actual scheduled push notifications coming expected scheduled push notifications come every 10 mins

@@ -1,0 +1,1 @@
+ios pull refresh stops working intermittently build 40 device iphone 6 version1021 steps launch app pull screen refresh observe actual pull refresh stops working intermittently

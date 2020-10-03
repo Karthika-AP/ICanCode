@@ -1,0 +1,1 @@
+disable tap approve reject button network hbuild vapproveqavappn24apk device iphone 6 1126 user sdeswal steps 1 install launch app 2 login app 3 lets half dashboard gets loaded 4 disconnect net tap cancel button 5 try approve reject one card dashboard details screen observe actual approve reject buttons disabled network expected disable tap approve reject button network

@@ -1,0 +1,1 @@
+able approve gdr ticket err500 env qa build v433 device iphone 6 1126 mapped user dhirendrag sdeswal gtotla steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 try approve gdr ticket 5 observe actual able approve gdr ticket err500 expected user able approve reject gdr ticket

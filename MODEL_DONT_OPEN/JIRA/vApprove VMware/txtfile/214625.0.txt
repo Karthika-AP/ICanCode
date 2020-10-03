@@ -1,0 +1,1 @@
+approvereject button seems bigger size compare ios build v40 13thjune device moto g3 60 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open ticket observe approvereject button details screen actual approvereject button seems bigger size compare ios expected approvereject button size consistent displayed ios

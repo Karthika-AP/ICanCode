@@ -1,0 +1,1 @@
+user faq panel clicks side panel click works back button instead hiding panel build v411 device ipad mini retina 1031 steps 1 login app 2 tap profile icon dashboard 3 tap faq button list 4 tap outside panel observe actual panel hiding faq tapped outside expected panel get hidden user taps outside panel

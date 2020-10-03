@@ -1,0 +1,1 @@
+border missing card dashboard build vapprovevmwareqa24apr2017b1 device ipad 2 935 steps 1login app 2 lets dashboard gets loaded 3 observe actual border missing card dashboard expected card look consitent

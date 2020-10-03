@@ -1,0 +1,1 @@
+app background user enables disabled screen navigation bar launches app app crashes build vapproveqavappn19apk oneplus 5 800 steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 enabledisable one screen navigation bar setting 5 reopen vapprove app observe actual app background user enables disabled screen navigation bar launches app app crashes expected app crash

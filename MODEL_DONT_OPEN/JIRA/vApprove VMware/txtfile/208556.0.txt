@@ -1,0 +1,1 @@
+inconsistency loading mask case size screen size small screens big build v412 device ipad mini retina1031 steps 1 login app 2 tap profile icon preferences icon 3 observe actual inconsistency loading mask case size screen size small screens big

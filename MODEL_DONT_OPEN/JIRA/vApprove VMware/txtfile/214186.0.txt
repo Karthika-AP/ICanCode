@@ -1,0 +1,1 @@
+keypad opening smooth approvalrejection comments build v40 13thjune device nexus 5x70 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 tap approvereject button observe 5 go ticket details screen 6 tap approvereject observe actual keypad opening smooth approvalrejection comments expected keypad opening smooth approvalrejection comments

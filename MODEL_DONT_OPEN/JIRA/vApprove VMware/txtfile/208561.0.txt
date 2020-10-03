@@ -1,0 +1,1 @@
+back button activity log screen proper build v412 device ipad mini retina 1031 steps 1 login app 2 tap activity logs icon 3 observe back button compare back buttons like faq screen preferences screen actual back button activity log screen proper expected back button consistent screens

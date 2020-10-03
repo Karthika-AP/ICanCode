@@ -1,0 +1,1 @@
+docusign signed document getting downloaded even close button working build v422 device samsung galaxy j7 601 steps 1 install build 2 login app 3 open docusign ticket 4 sign approve ticket 5 select combine 6 tap download button 7 observe 8 even close button docusign working actual docusign signed document getting downloaded expected approver able download docusign signed document

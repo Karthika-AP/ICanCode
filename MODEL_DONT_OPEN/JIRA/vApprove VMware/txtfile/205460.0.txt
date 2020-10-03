@@ -1,0 +1,1 @@
+servicenow description readable format build v411 devices iphone 6 ipad mini retina 1031 steps 1 login app 2 lets dashboard gets loaded 3 open detail screen servicenow ticket 4 tap description icon observe actual servicenow description readable format expected servicenow description readable format

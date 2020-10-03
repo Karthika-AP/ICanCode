@@ -1,0 +1,1 @@
+intermittent crash issue pull refresh using build v403 device iphone 6 plus noticed 4 times today steps 1 login app 2 use app 3 approvereject multiple tickets dashboard loading 4 go activity logs 5 come back dashboard 6 perform pull refresh 7 observe actual intermittent crash issue pull refresh using expected app crash situation

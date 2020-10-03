@@ -1,0 +1,1 @@
+android app crashes push notifications body title field null seems backend push notification scheduler sending null data every 24hours even though logged user pending approvals causing crash android build null checks handled places android app backend note user pending approvals scheduler sending null data pending approvals user get push notification

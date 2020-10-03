@@ -1,0 +1,1 @@
+approval time activity logs displayed per device time device iphone 6 1126 mi a1 800 build v434 steps 1 login app 2 reject helpnow ticket 3 pull refresh 4 tap activity logs icon 5 observe actual approval time activity logs displayed per device time expected approval time activity logs displayed per device time

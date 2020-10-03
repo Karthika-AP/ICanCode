@@ -1,0 +1,1 @@
+reportib detail view drill duplicate val 2 instance group id sort key sales order number ela unlock request qty sales order date ordered quantity column values mismatch obiee bobj prod 1 instance group type column available bobj prod 2 instance group id sort key sales order number ela unlock request qty sales order date ordered quantity column values mismatch obiee bobj prod

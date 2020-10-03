@@ -1,0 +1,1 @@
+unwanted spacing general info ticket details screen build vapprovevmwareqa24apr2017b1 device iphone 6 93 steps 1login app 2 lets dashboard gets loaded 3 open one cards go details screen 3 observe actual unwanted spacing general info ticket details screen expected unwanted spacing general info

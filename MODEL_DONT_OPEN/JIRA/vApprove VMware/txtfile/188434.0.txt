@@ -1,0 +1,1 @@
+iosthe lookup screen flickers time intermittent build 40 deviceiphone 6 1021 steps launch app scroll tickets home screen kill app relaunch itobserve actual user relaunches app lookup screen flickers time fairly intermittent issue seen twice thrice

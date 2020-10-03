@@ -1,0 +1,1 @@
+ioscount rejected appearing cut activity log screen build 40 device iphone 6 1021 steps launch app go activity logs screen observe count rejected requests observe actual currently displaying ellipsis pfa screenshot

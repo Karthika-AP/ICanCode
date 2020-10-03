@@ -1,0 +1,1 @@
+ui issue borders around card missing ipad 2 935 device ipad 2 user sdeswal steps 1 login app 2 lets dashboard gets loaded 3 observe cards dashboard actual ui issue borders around card missing ipad 2 935 expected ui issue borders around card consistent ipad 2 935 ipads ios version 1000

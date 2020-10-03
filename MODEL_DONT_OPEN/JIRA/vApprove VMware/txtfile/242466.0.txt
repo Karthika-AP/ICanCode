@@ -1,0 +1,1 @@
+password field getting hidden keypad build v42 env prod device oneplus 2601 steps 1 install vapprove prod build 2 launch app 3 enter username vidm login screen 5 observe password field getting hidden keypad actual password field getting hidden keypad expected username password field scrolled user clicks user name field password field

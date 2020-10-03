@@ -1,0 +1,1 @@
+qa getting push notification kinvey build v422ios qa device iphone 6ios 11 steps 1 install app 2 login app put app background 3 try send forced push notification kinvey observe notifications panel app actual getting push notification kinvey expected user get scheduled forced push notification

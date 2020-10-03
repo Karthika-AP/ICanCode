@@ -1,0 +1,1 @@
+unwanted data coming details tab build v428 device iphone 6 ios 11 steps 1 create gdr approval 2 submit gdr approval dhirendrag sdeswal approvers 3 open gdr details screen android device 4 observe eg quote number498478 actual unwanted data coming details tab workspace qty0 0 unwanted data expected unwanted data displayed

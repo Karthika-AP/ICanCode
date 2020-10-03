@@ -1,0 +1,1 @@
+app crashed ipad device ipad 2 ios 935 app version v10 steps reproduce 1 install app 2 login app 3 kill app 4 relaunch app 5 observe actual app crashed ipad expected app crashed ipad

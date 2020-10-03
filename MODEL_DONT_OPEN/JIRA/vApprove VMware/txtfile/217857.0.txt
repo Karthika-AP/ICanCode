@@ -1,0 +1,1 @@
+approvereject action failing modeln user dhirendrag app version v42qa device ipad mini retina 1031 1 login app 2 lets dashboard gets loaded 3 try approvereject one modeln ticket 4 observe actual approvereject action failing modeln expected user able approvereject modeln ticket

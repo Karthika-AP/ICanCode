@@ -1,0 +1,1 @@
+helpnow description date getting cut partially build v42 qa device oneplus 2 601 steps 1 install launch 2 login app 3 create helpnow ticket type technical training request name test descriptions 645 pm 4 open helpnow ticket app observe actual description data getting cut partially expected description data displayed propely

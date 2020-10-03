@@ -1,0 +1,1 @@
+ticket count mismatch concur detail screen build v400 device nexus 5x steps 1 go detail screen concur ticket 2 approvereject ticket 3 land concur detail screen 4 goto 2nd tab tap view receipts link 5 come back concur screen check ticket count result ticket count mismatch concur detail screen

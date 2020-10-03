@@ -1,0 +1,1 @@
+purchase order number field blank build 22nd may user sdeswal steps 1 login app 2 lets dashboard gets loaded 3 open invoicesap ticket observe actual purchase order number field blank expected purchase order number field display na data available

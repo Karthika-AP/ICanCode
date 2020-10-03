@@ -1,0 +1,1 @@
+dashboard load event details service calls status build v42 device samsung galaxy s7 70 steps 1 login app 2 lets dashboard gets loaded 3 open mixpanel 4 look dashboard load even 5 observe actual dashboard load event details service calls status expected dashboard load event details service calls status

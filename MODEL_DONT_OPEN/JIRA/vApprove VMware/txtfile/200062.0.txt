@@ -1,0 +1,1 @@
+user redirected app login screen vidm login screen build 40 22nd may device nexus 6p steps 1 launch app 2 enter emailid 3 lets vidm screen load 4 put app background 5 take app foreground 6 observe actual user redirected app login screen vidm login screen expected user remain vidm login screen

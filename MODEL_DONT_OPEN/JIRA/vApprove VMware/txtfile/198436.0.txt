@@ -1,0 +1,1 @@
+refresh indicator missing pull refresh dashboard device offline build v401 device iphone 6s new ipad mini retina steps 1 login app 2 lets dashboard gets loaded 4 make device offline 5 pulltorefresh observe actual refresh indicator missing pull refresh dashboard device offline expected refresh indicator pull refresh dashboard device offline

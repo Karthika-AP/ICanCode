@@ -1,0 +1,1 @@
+skip button required done button build vapprovevmwareqa27thjuneapk user dhirendrag steps reproduce 1 install launch app 2 scroll last walkthrough screen 3 observe

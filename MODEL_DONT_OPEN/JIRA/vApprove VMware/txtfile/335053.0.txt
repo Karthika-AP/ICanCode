@@ -1,0 +1,1 @@
+opened csv file readable opening form table build v425 device iphone 6 ios 11 steps 1 install launch app 2 login app 3 open gdr quote csv attachment 4 try open attachment observe 4 observe actual opened csv file readable opening form table expected opened csv file displayed tabular format

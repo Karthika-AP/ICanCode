@@ -1,0 +1,1 @@
+ppm time displays 2 days instead 1 days dashboard device mi a1 800 iphone 6 1125 build app version 4221 user sdeswal steps 1 install launch app 2 devices 2 login app 3 lets dashboard gets loaded 4 observe dashboard 2 devices attached screenshot actual ppm time displays 2 days instead 1 days dashboard

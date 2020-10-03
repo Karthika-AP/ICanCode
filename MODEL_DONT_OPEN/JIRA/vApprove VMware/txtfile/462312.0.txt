@@ -1,0 +1,1 @@
+app crashes opening activity logs filter build vapproveqavappn20ipa env qa login rgowaikar device iphone 7 1021 access token timeout 10 mins refresh token timeout 3 days steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 tap activity logs icon observe 6 observe actual app crashes opening activity logs expected app crash

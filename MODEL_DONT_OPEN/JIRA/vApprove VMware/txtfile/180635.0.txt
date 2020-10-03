@@ -1,0 +1,1 @@
+different persons user profile displayed mine displayed profile even mapped one device iphone 6s ios 1021 app version v10 steps reproduce 1 install app 2 login app dhirendrag 3 tap profile icon 4 observe actual different persons user profile displayed mine displayed profile even mapped one expected either profile mapped user profile displayed options

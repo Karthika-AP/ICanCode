@@ -1,0 +1,1 @@
+app crashed pull refresh intermittently builds v402 deviceipad mini retina 1031 steps 1 launch login app 2 lets dashboard gets loaded 3 navigate app activity logs details screen 4 perform pull refresh observe actual app crashed pull refresh intermittently expected app crash

@@ -1,0 +1,1 @@
+way user switch reject approve buttons build 10 device iphone 6s v1021 steps launch app get logged tap ticket hit approve button try dismissing tapping reject button observe actual user cannot simply dismiss button tap reject button

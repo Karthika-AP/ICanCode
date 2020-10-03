@@ -1,0 +1,1 @@
+feedback whats new section updated build v411 device iphone 6 103 ipad mini retina 1031 steps 1 login app 2 lets dashboard gets loaded 3 tap profile icon 4 tap info icon 5 tap whats new observe 7 tap feedback observe actual feedback whats new section updated expected feedback whats new section latest information app version

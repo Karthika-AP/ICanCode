@@ -1,0 +1,1 @@
+user able open docx attachment build v422 qa device iphone 6 ios 11 user dhirendrag sdeswal steps 1 create helpnow ticket docx attachment 2 install login app 3 lets dashboard gets loaded 4 open helpnow ticket created 5 try open docx attachment observe actual user able open docx attachment expected user able open docx attachment

@@ -1,0 +1,1 @@
+ios app crashes user performs pull refresh session timeout build v40 steps 1install app 2login app 3go dashboard 4put device idle running app background 510 mins 5 perform pull refresh operation actual app crashes user performs pull refresh session timeout expected app crashes user performs pull refresh session timeout

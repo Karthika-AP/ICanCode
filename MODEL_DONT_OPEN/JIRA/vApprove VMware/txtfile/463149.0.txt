@@ -1,0 +1,1 @@
+1 days displayed invoicesap card dashboard build v425 env prod login sdeswal device iphone 7 ios 12 steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 navigate pulltorefresh actual 1 days displayed invoicesap card dashboard expected wherever getting future dates creation display todays instead minus values

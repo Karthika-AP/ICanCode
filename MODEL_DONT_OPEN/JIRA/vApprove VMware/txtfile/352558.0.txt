@@ -1,0 +1,1 @@
+dashboard header loading indicator getting overlapped pull refresh build v427 device iphone x ios 11 simulator steps 1 install launch build 2 login app 3 lets dashboard gets loaded 4 pulltorefresh 5 refresh scroll observe actual dashboard header loading indicator getting overlapped pull refresh expected dashboard header loading indicator overlap pull refresh

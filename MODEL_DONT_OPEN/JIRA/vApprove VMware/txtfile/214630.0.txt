@@ -1,0 +1,1 @@
+engagement name displayed instead general info line item details changepoint build v42 13thjune device iphone 6s steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open changepoint ticket 5 tap itemized details icon 6 tap line item observe expected engagement name displayed instead general info line item details changepoint

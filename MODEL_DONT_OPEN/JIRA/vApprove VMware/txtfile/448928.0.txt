@@ -1,0 +1,1 @@
+qa concur approval working build v436 vapprovevmwareqa7sep2018v436ipa device iphone 5s1124 sdeswal steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 approve concur ticket observe actual concur ticket approvals fails expected user able provide approvals vapprove app

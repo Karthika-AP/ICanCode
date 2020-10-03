@@ -1,0 +1,1 @@
+app crashes user update preferences dashboard loading build v401 device iphone 6s new ipad mini retina steps 1 launch app 2 login app 3 dashboard loading 4 tap profile icon update preferences 5 come back dashboard wait observe actual app crashes user update preferences dashboard loading expected app crash user updates preferences dashboard loading

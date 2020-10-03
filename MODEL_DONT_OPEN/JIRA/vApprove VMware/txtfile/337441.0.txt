@@ -1,0 +1,1 @@
+app getting updated android platform build v426qa device moto g5 plus 70 steps 1 install app version v425 2 launch keep app background 3 try install version v427 4 observe error message actual getting error message trying upgrade app expected app upgraded properly

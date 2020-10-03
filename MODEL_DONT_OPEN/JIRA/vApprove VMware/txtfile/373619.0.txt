@@ -1,0 +1,1 @@
+invalid attachments handled gracefully build v4212android v4211ios device iphone 6 steps 1 install launch app 2 login app 3 try open old attachment invalid eg gdr quote501126 note issue already fixed backends side wanted suggest come across invalid damaged file handle gracefully app side display alert message file invalid damaged opening

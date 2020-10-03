@@ -1,0 +1,1 @@
+metadata call happening dashboard user perform multiple pull refresh build v415 device iphone 6s 1021 steps 1 login app 2 lets dashboard gets loaded 3 perform pull refresh 4 dashboard empty perform pull refresh 5 observe actual metadata call happening dashboard user perform multiple pull refresh expected multiple pull refresh allowed

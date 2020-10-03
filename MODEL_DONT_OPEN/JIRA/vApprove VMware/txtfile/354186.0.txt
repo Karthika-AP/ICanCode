@@ -1,0 +1,1 @@
+unique locators provided elements platform ios build version 43 qa steps 1 launch app via appium 2 go service preferences screen 3 observe locator values id xpath accessibility id service providers name toggle switch expected element unique locator values used automation note issue example many ui elements missing unique locators current version app

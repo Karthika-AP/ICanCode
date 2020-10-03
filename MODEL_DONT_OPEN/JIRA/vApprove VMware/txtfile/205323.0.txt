@@ -1,0 +1,1 @@
+progressive loading missing activity logs user profile screen build 411 device iphone 6103 ipad mini retina 1031 steps 1 login app 2 go activity logs screen 3 observe actual progressive loading missing activity logs expected progressive loading activity logs

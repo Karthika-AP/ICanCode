@@ -1,0 +1,1 @@
+app name updated metropolis build v4211 device iphone 6 ios 11 steps 1 install app 2 observe menu actual app name updated metropolis expected app name updated metropolis

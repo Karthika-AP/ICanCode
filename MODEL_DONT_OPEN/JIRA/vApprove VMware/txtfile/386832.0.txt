@@ -1,0 +1,1 @@
+app crashing 3 days use v4212 steps 1 install launch app 2 login app 3 use app sometime 4 kill app keep 5 relaunch app 4th day oberve actual app crashing 3 days use expected app crash
