@@ -1,0 +1,19 @@
+urls:
+  login: '/AITestEngine/login'
+  home: 'AITestEngine/home.html'
+  denied: '/AITestEngine/denied'
+  release: 'AITestEngine/release.html'
+  relnote1: 'AITestEngine/RELEASE_NOTE.html'
+  relnote: 'AITestEngine/releasenotes2.html'
+  team: 'AITestEngine/team.html'
+  help: 'AITestEngine/help.html'
+  news: 'AITestEngine/news.html'
+  AI: "/AITestEngine/"
+  cr: 'AITestEngine/copyright.html'
+  demo: 'AITestEngine/demo.html'
+  atk: 'AITestEngine/aspire_tool_kit.html'
+  iau: 'AITestEngine/intoduction_to_AITestEngine_usecases.html'
+  guide: 'AITestEngine/installation_guide.html'
+  manual: 'AITestEngine/aspire_user_manual.html'
+UN: username
+PA: password
