@@ -1,1 +1,0 @@
-able open see attachment charm build vapprovevmwareqa24apr2017b1ipa user dhirendrag mapped ridddhis device iphone 6103 steps reproduce 1 install launch app 2 login app 3 lets dashboard gets loaded 4 open charm ticket attachments 5 tap attachment icon observe actual able open see attachment charm expected user able see attachment able open view

@@ -1,1 +1,0 @@
-helpnow ticket count inconsistent pulltorefresh build v42 qa device iphone 6 ios 11 samsung galaxy j7601 steps 1 install launch 2 login app 3 lets dashboard gets loaded 4 perform pulltorefresh multiple times 5 observe pending approval count time actual helpnow ticket count inconsistent pulltorefresh expected description details screen displayed hmtl tags

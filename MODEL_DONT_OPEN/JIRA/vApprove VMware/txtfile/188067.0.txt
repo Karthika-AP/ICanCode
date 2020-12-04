@@ -1,1 +1,0 @@
-user registered social cast preferences gets hidden user profile screen devices iphone 6 build v40 user rpeshwe steps 1 install launch app 2 login app 3 tap profile icon 4 observe profile screen actual user registered social cast preferences gets hidden expected user registered social cast preferences hidden

@@ -1,1 +1,0 @@
-release note android updated build v400 device nexus 5x steps 1 install login app 2 tap profile icon 3 tap info icon 4 tap release notes info screen actual release note android updated expected release note android updated per v40

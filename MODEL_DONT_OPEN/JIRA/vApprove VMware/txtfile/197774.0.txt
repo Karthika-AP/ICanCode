@@ -1,1 +1,0 @@
-dashboard loading smooth build 401 16th may device iphone 6s v1021 steps 1 launch app 2 get logged 3 observe dashboard loading actual dashboard loading smooth first displays loading animations ticket goes load first service provider flicker happens

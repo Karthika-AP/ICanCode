@@ -1,1 +1,0 @@
-iosthe app crashed user taps back button web view loading echosign card build vapprovevmwareqa23apr2017b1 device iphone 6s v 1021 steps launch app select echosign card home screen tap web view button web view getting fetched tap back button observe actual user taps back button web view fetched app crashes

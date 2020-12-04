@@ -1,1 +1,0 @@
-helpnow service failing build v42 qa device iphone 6 ios 11 steps 1 install launch 2 login app 3 tap service failure icon observe actual helpnow service failing expected helpnow service fail

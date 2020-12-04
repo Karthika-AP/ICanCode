@@ -1,1 +1,0 @@
-long attachment name getting cut build v422 qa device iphone 6 ios 11 user dhirendrag sdeswal steps 1 create helpnow ticket long attachment name 2 install login app 3 lets dashboard gets loaded 4 open helpnow ticket created eg ritm2043522 5 observe actual long attachment name getting cut expected long attachment name cut

@@ -1,1 +1,0 @@
-app crash 79 dashboardviewcontrollerswift line 432 dashboardviewcontrollerupdatetableviewforsectionsection int shouldreload bool iphone 7 1111 please refer attached logs details

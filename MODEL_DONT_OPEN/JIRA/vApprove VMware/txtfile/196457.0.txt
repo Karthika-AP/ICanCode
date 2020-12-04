@@ -1,1 +1,0 @@
-change point app crashes approving ticket device ipad 2 user sdeswal 2 changepoint tickets need steps 1 login app 2 reject changepoint ticket 3 approve last changepoint ticket 4 observe actual changepoint app crashes approving ticket expected app crash case

@@ -1,1 +1,0 @@
-androidthe app crashes try approving two tickets simultaneously intermittent build 40 device nexus 6p steps launch app select service provider one card displayed try approving ticket time swipe card approve card observe actual user approves second card app crashes

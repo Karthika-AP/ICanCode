@@ -1,1 +1,0 @@
-preferences appc native version sync build v35 v40 steps 1 install v35 iphone 6 login app 2 install v40 iphone 7 login user 4 make changes v40 5 observe preference v35 actual preferences appc native version sync expected preferences appc native version sync

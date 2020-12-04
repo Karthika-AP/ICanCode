@@ -1,1 +1,0 @@
-animation cards missing activity logs screen build v40 13thjune device moto g3 60 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 tap activity logs observe actual animation cards missing activity logs screen expected animations cards show data loaded

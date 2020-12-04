@@ -1,1 +1,0 @@
-qasuggestion total count ticket category displayed dashboard screen build v412 device iphone 6103 ipad mini retina 1031 steps 1 login app 2 lets dashboard gets loaded 3 observe expected count pending approvals service provider displayed along service provider name

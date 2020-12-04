@@ -1,1 +1,0 @@
-ios unwanted animation displayed pie chart user profile screen build40 device iphone 6 steps launch app go user profile screen pull screen refresh twice thrice observe pie charts displayed actual user pulls screen refresh unwanted animation seen around pie charts

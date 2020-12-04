@@ -1,1 +1,0 @@
-app events getting registered qa mixpanel build v435 device iphone 8 pulse install launch app login app navigation approve reject ticket helpnow go mixpanel qadev observe events captured

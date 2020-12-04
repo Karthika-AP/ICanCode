@@ -1,1 +1,0 @@
-ecms app crashes tapped ecms card dashboard build v436 device nexus 5x user dhiredrag env qa steps 1 login app 2 lets dashboard gets loaded 3 enable ecms preferences 4 tap one ecms card dashboard observe actual app crashes tapped ecms card dashboard expected app must crash show details screen correct data

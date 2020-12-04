@@ -1,1 +1,0 @@
-inconsistency observe statistics card tapping profile icon build v4221 device iphone 61126 sdeswal steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 tap profile icon 5 scroll observe statitics card actual inconsistency observed statistics cardit shows diff percentage android ios

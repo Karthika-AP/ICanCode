@@ -1,1 +1,0 @@
-one user missing approval chain 4 approvers requires 3 lines build v43 device oneplus 2601 url httpmlnuatapp18080modeln steps 1 create gdr quote without attachment 2 send gdr approval khuntetaa gtotla raip sdeswal 3 install vapprove app login one approver 4 observe approval chain seems one user missing

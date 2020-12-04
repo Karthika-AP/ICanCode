@@ -1,1 +1,0 @@
-intermittent crash issue rejecting coupa ticket device ipad mini retina user sdeswal steps 1 login app 2 open coupa ticket 3 perform reject operation 4 observe actual intermittent crash issue rejecting coupa ticket expected crash approving rejecting ticket

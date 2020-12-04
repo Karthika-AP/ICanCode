@@ -1,1 +1,0 @@
-unwanted empty attachments screen build 22nd may v40 steps 1 install launch app 2 login app 3 open invoicesap ticket 4 doc excel attachments 5 open attachment 6 close attachment observe actual unwanted empty attachments screen expected unwanted empty attachments screen displayed

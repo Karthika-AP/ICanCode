@@ -1,1 +1,0 @@
-faq screen updated metropolis font build v4211 device iphone 6 ios 11 steps 1 install launch app 2 tap profile icon 3 tap info icon 4 tap faq button 5 tap concur approval error individual line ite 6 observe actual faq screen updated metropolis font expected faq screen updated metropolis font

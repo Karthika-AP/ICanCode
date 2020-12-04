@@ -1,1 +1,0 @@
-activity log filter work error 0 error ticket build v40 13thjune device moto g3 60 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 tap activity logs 5 tap error observe actual activity log filter work error 0 error ticket expected activity log filter work error 0 error ticket

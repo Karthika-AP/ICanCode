@@ -1,1 +1,0 @@
-androidview label easily scrollable build 10 device nexus 5x v 70 steps launch app go home screen try scrolling view label observe actual view label easily scrollable

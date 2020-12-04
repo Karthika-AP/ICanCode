@@ -1,1 +1,0 @@
-slider menu hide tap outside build 14th may 2017v41 device ipad mini retina steps 1 login app 2 tap profileactivity logs icon 3 tap place back button present 4 observe actual slider menu hiding tap outside expected slider menu hide tap outside

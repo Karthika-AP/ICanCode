@@ -1,1 +1,0 @@
-overlapping issue preferences faq info whats new screens device ipad mini retina 1125 build v4212 steps 1 install launch app 2 login app 3 tap profile icon 4 tap preference link observe actual overlapping issue preferences screen expected overlapping issue preferences screen

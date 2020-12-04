@@ -1,1 +1,0 @@
-sevicenow card limit marked 50 build v40 27thjune device nexus 5x70 user sdeswal steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open servicenow observe actual sevicenow card limit marked 50 user sdeswal able 59 cards

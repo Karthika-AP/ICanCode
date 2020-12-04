@@ -1,1 +1,0 @@
-response time greater 300 ms apis steps 1 enter url postman enter valid content type 2 pass header parameters 3 hit send button expected result user get response within 300 ms actual result user getting response 300 ms

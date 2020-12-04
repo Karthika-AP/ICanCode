@@ -1,1 +1,0 @@
-pending request dashboard header displayed login screen session timeout device moto g3 os 601 app version v10 steps reproduce 1 install app 2 login app 3 put app background till session expires 4 relaunch app 5 observe actual pending request dashboard header displayed login screen session timeout expected pending request dashboard header displayed login screen session timeout

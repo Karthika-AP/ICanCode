@@ -1,1 +1,0 @@
-ecms approval rejection working build v435 device iphone 6s ios12 ipad retina mini ios 1122 env qa login user dhirendrag steps 1 install launch 2 login app 3 lets dashboard gets loaded 4 try approvereject one ecms pending approval 5 observe actual ecms approval rejection working expected ecms approval rejection work

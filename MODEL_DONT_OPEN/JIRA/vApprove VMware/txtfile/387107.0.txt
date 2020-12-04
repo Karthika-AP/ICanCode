@@ -1,1 +1,0 @@
-cocnur view receipts touching expense lines iphone 5s ios 1125 v4212 sdeswal steps 1 install launch app 2 login app 3 lets dashboard get loaded 4 open concur ticket attachments 5 tap line items icon 6 observe actual cocnur view receipts touching expense lines expected cocnur view receipts expense lines

@@ -1,1 +1,0 @@
-walkthrough screens displayed fresh install user dhirendrag device mi a1800 steps 1 install launch app 2 login app 3 observe walkthrough screens displayed actual walkthrough screens displayed fresh install expected walkthrough screens displayed fresh install

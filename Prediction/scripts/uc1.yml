@@ -1,0 +1,38 @@
+mysql:
+  user: root
+  password: root
+  host: 127.0.0.1
+  database: test
+
+defm: Defect_Modules
+
+urls:
+  login: '/ICanCode/login'
+  denied: '/ICanCode/denied'
+  metrics: 'Prediction/matrics.html'
+  details: 'Prediction/details.html'
+  use: 'Prediction/Prediction_dc_result.html'
+
+defm: Test
+
+DE:
+  module: Digital_Enablement
+  tn: temps
+  tncols: ['sino', 'month', 'day', 'temp_2', 'temp_1', 'average', 'actual', 'forecast_noaa', 'forecast_acc', 'forecast_under', 'friend']
+  predict_cols:  ['actual', 'sino']
+  tn_lp: tempsnew
+
+
+table:
+  AIdd: CrestaL2_DefectDensity
+  AIdl: CrestaL2_DefectLeakage
+  uc1t: usecase1CTelephonica
+
+
+
+
+
+
+
+
+

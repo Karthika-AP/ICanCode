@@ -1,1 +1,0 @@
-vapprove builds working tenant discovery api failing user blocked launching app please look attached screenshot tenant discovery url httpsmbeivmwarecom9090tenantdiscoveryapiv1configuration happens new users installs app wont able login

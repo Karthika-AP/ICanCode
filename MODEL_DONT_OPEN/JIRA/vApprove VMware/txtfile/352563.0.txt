@@ -1,1 +1,0 @@
-attachment header getting center aligned x button partially tappable build v427 device iphone x ios 11 simulator steps 1 install launch build 2 login app 3 open gdr ticket attachement 4 observe header 5 tap upper side x button observe actual attachment header getting center aligned x button partially tappable

@@ -1,1 +1,0 @@
-duplicate cards seen dashboard build v411 device iphone 6 steps 1 login app 2 dashboard partially laoded 3 approve middle help ticket 4 reject last helpnow ticket 5 go activity logs 6 come back dashboard 7 observe actual duplicate cards seen dashboard expected duplicate cards must displayed dashboard

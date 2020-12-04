@@ -1,1 +1,0 @@
-androidno options displayed preferences screen build 10 device nexus 5x v 70 steps launch app go user profile tap preferences observe actual options displayed preferences screen pfa screenshot

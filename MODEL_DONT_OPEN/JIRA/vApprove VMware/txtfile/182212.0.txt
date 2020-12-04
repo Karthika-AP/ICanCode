@@ -1,1 +1,0 @@
-app crashes user taps web view button echosign docusign ticket first time build vapprovevmwareqa23apr2017b1 device iphone 6s v 1021 steps install app launch go home screen select echosign docusign ticket tap web view button present lower right screen observe actual tapping web view button first time app crashes note later app relaunched user taps web view button ticket crash

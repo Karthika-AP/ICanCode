@@ -1,1 +1,0 @@
-unable reach sso login screen build v42 device samsung galaxy j7601 steps 1 install app 2 launch app 3 tap skip walkthrough screen 4 observe actual unable reach sso login screen expected user able reach sso login screen

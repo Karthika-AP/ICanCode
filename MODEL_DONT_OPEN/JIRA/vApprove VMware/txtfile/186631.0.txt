@@ -1,1 +1,0 @@
-long text displayed ellipses format tap expand build vapprovevmwareqa24apr2017b1 device ipad 2 935 nexus 5x iphone 6103 steps 1login app 2 lets dashboard gets loaded 4 open one coupa ticket long text value 3 observe details screen actual long text displayed ellipses format expected long text displayed ellipses format tap expand

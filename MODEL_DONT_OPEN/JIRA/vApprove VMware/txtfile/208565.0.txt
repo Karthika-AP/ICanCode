@@ -1,1 +1,0 @@
-info title info screen pending approvals title dashboard tappable build v412 device iphone 6 103 ipad mini retina 1031 steps 1 login app 2 tap pending approval title observe 3 tap profile icon 4 tap info icon 5 observe info text tappable actual info title info screen pending approvals title dashboard tappable expected titles tappable

@@ -1,1 +1,0 @@
-reportib detail view drill contract line date val data mismatch obiee prod bobj prod 1 instance group type column present bobj prod 2 number records mismatch obiee bobj 3 instance group id sort key sc party number sales order number ela unlock request qty sales order date ordered quantity column values mismatch

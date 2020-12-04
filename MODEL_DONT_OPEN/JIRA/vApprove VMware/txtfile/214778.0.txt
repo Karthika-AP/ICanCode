@@ -1,1 +1,0 @@
-able approvereject created charm rfcs build v40 13thjune device moto g3 601 steps 1 install build 2 login app 3 create charm rfc attachment 4 try perform approvereject operation 5 observe actual able approvereject created charm rfcs expected approver able approve reject charm rfcs created

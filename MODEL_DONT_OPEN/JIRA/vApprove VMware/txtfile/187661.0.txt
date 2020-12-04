@@ -1,1 +1,0 @@
-iosempty ui displayed user taps cancel button webview build 40 device iphone 6 1002 steps launch app select echosign docusign card home screen tap webview button web view gets loaded tap cancel button observe actual blank ui displayed pfa screenshot

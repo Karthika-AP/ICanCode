@@ -1,1 +1,0 @@
-ios dashboard fails autoupdate making changes preferences build40 device iphone 6 steps launch app go user profile screen tap preferences enable disable service providers save go dashboard screen observe actual dashboard fails autoupdate user manually pull screen refresh order see changes getting reflected

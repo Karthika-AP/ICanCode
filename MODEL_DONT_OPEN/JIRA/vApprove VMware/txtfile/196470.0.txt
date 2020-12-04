@@ -1,1 +1,0 @@
-alignment issue service failure alert popup device ipad 2 user sdeswal steps 1 login app 2 tap service failure alert icon 3 observe actual alignment issue service failure alert popup expected alignment issue service failure alert popup

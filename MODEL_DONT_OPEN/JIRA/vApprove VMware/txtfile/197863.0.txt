@@ -1,1 +1,0 @@
-app crashes changing preference multiple times build 401 16th may device iphone 7 v1031 steps 1 launch app 2 tap profile icon 3 change servicenow preferences save 4 come back dashboard 5 change preference save 6 come back dashboard screen observe actual app crashes changing preference multiple times expected app crash

@@ -1,1 +1,0 @@
-feedback section show approve v400 feedback instead v277 build v40 device nexus 5x steps 1 install login app 2 tap profile icon 3 tap info icon 4 tap feedback button info screen expected feedback section show approve v40 feedback instead v277

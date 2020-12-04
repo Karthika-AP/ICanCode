@@ -1,1 +1,0 @@
-duplicate cards seen dashboard pulltorefresh build vapprovevmwareqa23apr2017b1 device ipad 2 935 iphone 6s1021 steps 1login app 2 lets dashboard gets loaded 3 pulltorefresh observe actual duplicate cards seen dashboard pulltorefresh expected duplicate cards displayed

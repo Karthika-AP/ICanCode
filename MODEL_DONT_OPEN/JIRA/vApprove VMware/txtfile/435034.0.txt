@@ -1,1 +1,0 @@
-ui issue profile screens activity card build v434prod device iphone 6 ios 12 beta steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 tap profile icon observe actual 8 getting cut partially since apr 28 expected letter number displayed properly note issue current prod build prod

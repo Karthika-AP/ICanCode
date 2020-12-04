@@ -1,1 +1,0 @@
-time preference screen getting loaded time app freezes user profile screen build v415 device iphone 6s 1021 steps 1 login app 2 lets dashboard gets loaded 3 navigate dashboard screen user preference screen along saving user preference change 4 observe actual time preference screen getting loaded time app freezes user profile screen expected app work flawlessly

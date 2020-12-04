@@ -1,1 +1,0 @@
-animation issue pulltorefresh dashboard build v42 ios env prod device iphone 6 plusios11 steps 1 install vapprove prod build 2 launch login app 3 let dashboard gets loaded 4 perform pull refresh 5 observe actual animation issue pulltorefresh dashboard expected issue animation pulltorefresh dashboard

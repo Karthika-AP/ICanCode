@@ -1,1 +1,0 @@
-app consumes 118mb memory installations build v40 13thjune device oneplus 2 601 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 put app background 5 check memory consumed app setting actual app consumes 118mb memory installations

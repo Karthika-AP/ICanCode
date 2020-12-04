@@ -1,1 +1,0 @@
-getting logged refresh token expires intermittently builds v402 device iphone 6 ipad mini retina 1031 user rathodd dhirendrag steps 1 launch login app 2 lets dashboard gets loaded 3 use app 4 sometimes user gets logged withing 2 minutes use actual getting logged refresh token expires expected app get logged refresh token expires

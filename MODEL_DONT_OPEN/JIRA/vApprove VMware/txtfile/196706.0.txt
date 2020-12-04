@@ -1,1 +1,0 @@
-docusign go attachment close without anything full dashboard refreshes device ipad mini retina v41 user sdeswal steps 1 install launch app 2 login app 3 open docusign ticket 4 come back dashboard 5 observe full dashboard refresh happens actual docusign go attachment close without anything full dashboard refreshes expected refresh partial happen docusign

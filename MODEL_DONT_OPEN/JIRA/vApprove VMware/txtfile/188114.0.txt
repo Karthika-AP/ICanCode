@@ -1,1 +1,0 @@
-servicenow attachment getting opened seat move tickets build v40 user dhirendrag steps 1 install launch build 2 open seat move ticket 3 tap attachment tab 4 tap attachment observe actual servicenow attachment getting opened seat move tickets expected servicenow attachment get opened

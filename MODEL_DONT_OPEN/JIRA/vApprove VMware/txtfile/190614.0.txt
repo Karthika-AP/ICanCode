@@ -1,1 +1,0 @@
-iosscreen flickers users pulls refresh home screen build 40 device iphone 6 version 1021 steps launch app pull dashboard screen refresh observe app behavior actual app flickers continuously 58 secs getting stabilized

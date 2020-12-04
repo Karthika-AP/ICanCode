@@ -1,1 +1,0 @@
-screen auto refreshes sometime user navigated dashboard screen device ipad 2 user sdeswal 2 changepoint tickets need steps 1 login app 2 go profile screen activity log screen 3 come back dashboard screen 4 observe actual screen autorefreshes time user navigated dashboard screen expected screen autorefreshes time user navigated dashboard screen

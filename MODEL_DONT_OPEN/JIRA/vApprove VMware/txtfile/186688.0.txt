@@ -1,1 +1,0 @@
-cancel button cannot tapped web view loaded docusign echosign build 40 device iphone 6 steps launch app select docusign ticket home screen click web view button web view gets loaded try tapping cancel button observe actual cancel button cannot tapped app gets hanged user kill app relaunch

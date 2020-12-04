@@ -1,1 +1,0 @@
-user able approvereject modeln ticket user sdeswal steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 open modeln ticket 5 tap approve button observe actual user able approvereject modeln ticket expected user approvereject modeln ticket

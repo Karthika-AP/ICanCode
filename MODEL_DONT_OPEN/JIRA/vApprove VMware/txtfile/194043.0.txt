@@ -1,1 +1,0 @@
-prod build crashed user refresh screen device offline also device back network device iphone 71032 build prod v40 steps 1 install launch build 2 login app 3 disable internet 4 perform pulltorefresh 5 enable internet actual prod build crashed user refresh screen device offline also device back network expected build crash conditions

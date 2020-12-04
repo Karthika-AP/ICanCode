@@ -1,1 +1,0 @@
-able login vapprove qa builds v434 qa iphone x steps 1 install launch app 2 enter credentials tap sign button 3 observe please find attached screenshot error 504 gateway timeout

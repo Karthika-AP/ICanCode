@@ -1,1 +1,0 @@
-sample reject pull refresh app crashes device ipad 2 user sdeswal steps 1 login app 2 open sample card 3 reject sample card observe actual sample reject pull refresh app crashes expected app crash case

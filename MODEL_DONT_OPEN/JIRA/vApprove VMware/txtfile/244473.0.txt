@@ -1,1 +1,0 @@
-splash screen replaced correct font family build 422 environment dev build android steps 1 install app 2 launch app observe actual splash screen replaced correct font family expected splash screen replaced correct font family

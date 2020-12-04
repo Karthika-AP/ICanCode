@@ -1,1 +1,0 @@
-description details screen displayed hmtl tags build v42 qa device iphone 6 ios 11 steps 1 install launch 2 login app 3 open helpnow ticket 4 tap description icon observe actual description details screen displayed hmtl tags expected description details screen displayed hmtl tags

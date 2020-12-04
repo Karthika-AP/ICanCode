@@ -1,1 +1,0 @@
-sometimes login dashboard shows pending approvals pull refresh data gets loaded build v40 13thjune device nexus 5x70 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 wait time user gets logged 5 relogin observe dashboard actual sometimes login dashboard shows pending approvals pull refresh data gets loaded expected data loaded login

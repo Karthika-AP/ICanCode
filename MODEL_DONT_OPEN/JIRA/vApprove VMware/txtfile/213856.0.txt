@@ -1,1 +1,0 @@
-concur pso project code field empty build v40 13thjune device nexus 5x70 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open concur ticket 5 tap line item icon 6 open lodging line item 7 observe actual concur pso project code field empty expected data displayed field display na

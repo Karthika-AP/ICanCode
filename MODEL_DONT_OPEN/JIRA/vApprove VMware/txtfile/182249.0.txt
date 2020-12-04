@@ -1,1 +1,0 @@
-user unable open ticket first instance build vapprovevmwareqa23apr2017b1 device iphone 6s steps launch app dashboard swipe cards group 1 card tap second card observe actual user taps 2nd card flickers

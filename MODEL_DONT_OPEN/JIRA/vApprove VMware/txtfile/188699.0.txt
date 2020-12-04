@@ -1,1 +1,0 @@
-one minute pull refresh takes time refresh dashboard build 40 device iphone 6s v1021 pre requisite access token time 3 mins refresh token time 6 mins steps 1 launch app go home screen 2 wait one minute 3 pull refresh observe actual one minute pull refresh work dashboard expected one minute pull refresh work dashboard

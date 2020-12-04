@@ -1,1 +1,0 @@
-usability bug activity log preferences screen open dashboard screen refer screenshot device ipad 2 user rathodd steps 1 login app 2 open tap activity log icon profile icon 3 observe actual activity log preferences screen open dashboard screen refer screenshot expected ui needs improved

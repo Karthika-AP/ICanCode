@@ -1,1 +1,0 @@
-qa ios app v436 crashes user tap profile icon dashboard build v436 vapprovevmwareqa7sep2018v436ipa device iphone 5s1124 dhirendrag mapped sdeswal steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 tap profile icon observe issue happened qa sso update actual qa ios app v436 crashes user tap profile icon dashboard expected app crash

@@ -1,1 +1,0 @@
-app auto refreshes intermittently user tries approvereject ticket details screen 

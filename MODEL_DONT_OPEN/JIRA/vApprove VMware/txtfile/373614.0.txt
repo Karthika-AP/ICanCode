@@ -1,1 +1,0 @@
-coupa requestor name displayed card details header build v4212 device mi a1 iphone 6 user sdeswal steps 1 install launch app 2 login app 3 lets dashboard gets loaded 4 observe coupe ticket dashboard 5 open details view coupa observe actual requestor name displayed card details header expected requestor name displayed card details header

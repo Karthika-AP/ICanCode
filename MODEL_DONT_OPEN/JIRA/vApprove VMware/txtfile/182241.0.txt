@@ -1,1 +1,0 @@
-pull refresh shows blank screen user logged one devices build vapprovevmwareqa23apr2017b1 device iphone 6s 1021 iphone 7103 steps 1login app devices 2 lets dashboard gets loaded 3 put app background time 4 pull refresh observe actual pull refresh shows blank screen user logged one devices expected pulltorefresh show data

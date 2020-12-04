@@ -1,1 +1,0 @@
-app crashes pull refresh device moto g3 ios 601 app version v10 steps reproduce 1 install app 2 login app 3 pull refresh 4 refresh scroll 5 observe actual app crashes expected app crashed

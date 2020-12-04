@@ -1,1 +1,0 @@
-unwanted link concur details screen build v40 13thjune device nexus 5x70 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open concur ticket 5 observe link view concur mobile application actual unwanted link concur details screen expected link ios builds

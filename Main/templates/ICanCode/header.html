@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ {% load static %}
+<link rel="shortcut icon" type="image/png" href="{%  static 'images/nttdata.png' %}"/>
+    <title>Prediction Tool</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Tech Mag template project">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+<link rel="stylesheet" type="text/css" href="{%  static 'styles/bootstrap-4.1.2/bootstrap-4.1.2/bootstrap.min.css'%}">
+<link href="{%  static 'plugins/font-awesome-4.7.0/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="{%  static 'plugins/OwlCarousel2-2.2.1/owl.carousel.css' %}">
+<link rel="stylesheet" type="text/css" href="{%  static 'styles/main_styles.css' %}">
+<link rel="stylesheet" type="text/css" href="{%  static 'login/css/normalize.css' %}" />
+<link rel="stylesheet" type="text/css" href="{%  static 'login/css/demo.css' %}" />
+<link rel="stylesheet" type="text/css" href="{%  static 'login/css/component.css' %}" />
+<link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800' rel='stylesheet' type='text/css'>
+
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="{%  static 'ICanCode/images/icons/favicon.ico' %}"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{%  static 'ICanCode/fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{%  static 'ICanCode/fonts/Linearicons-Free-v1.0.0/icon-font.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{%  static 'ICanCode/vendor/animate/animate.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{%  static 'ICanCode/vendor/css-hamburgers/hamburgers.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{%  static 'ICanCode/vendor/select2/select2.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{%  static 'ICanCode/css/util.css' %}">
+	<link rel="stylesheet" type="text/css" href="{%  static 'ICanCode/css/main.css' %}">
+<!--===============================================================================================-->
+
+
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+
+</head>
+<body>
+    <div class="super_container">
+        <div class="header">            
+            <div class="header_nav_container" id="header" >
+                <div class="container" style="margin-left:0px; display:-webkit-inline-box;padding-left:10px;">
+                    <div align="left" style="font-size:40px">
+						<b>Prediction&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</b>
+					</div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="header_nav_content d-flex flex-row align-items-center justify-content-start">
+
+                                <!-- Logo -->
+                                
+                                <!-- Navigation -->
+                                  <nav class="main_nav" >
+
+                                    <ul class="main_nav_list d-flex flex-row align-items-center justify-content-start dropdown">
+                                        
+                                        <li><a href="/ICanCode/" style="font-size:18px">home</a></li>
+                                        &emsp;&emsp;
+                                        <li><div class="dropdown1"><a class="dropbtn1" style="font-size:18px">Usecases</a>
+                                            <div class="dropdown-content1">
+                                             <div class="dropdown2">
+                                             <a class="dropbtn1" href="/ICanCode/Prediction/" style="font-size:18px"> Prediction</a>
+                                             </div>
+                                        </div></div>
+                                            &emsp;&emsp;
+                                        
+                                        <li><a href="/logout/"style="font-size:18px">Logout</a></li>                                       
+                                    </ul>
+                                </nav>
+                                
+                            </div>
+                        </div>
+						
+                    </div>
+					
+                </div>
+            </div>
+        </div>
+		
+          <div id="" style="background-image:url('{% static "login/images/images.jpg" %}')">
+                  <!--<canvas id="demo-canvas1"></canvas>-->
+                {% block content %}
+                {% endblock %}
+
+          </div>
+     
+		
+       
+<script src="{%  static 'js/jquery-3.2.1.min.js'%}"></script>
+    <script src="{%  static 'styles/bootstrap-4.1.2/popper.js' %}"></script>
+    <script src="{%  static 'plugins/scrollmagic/ScrollMagic.min.js'%}"></script>
+    <script src="{%  static 'plugins/OwlCarousel2-2.2.1/owl.carousel.js'%}"></script>
+    <script src="{%  static 'plugins/parallax-js-master/parallax.min.js'%}"></script>
+    <script src="{%  static 'js/custom.js'%}"></script>
+<script src="{%  static 'login/js/TweenLite.min.js' %}"></script>
+<script src="{%  static 'login/js/EasePack.min.js' %}"></script>
+<script src="{%  static 'login/js/rAF.js' %}"></script>
+<script src="{%  static 'login/js/demo-1.js' %}"></script>
+</body>
+
+</html>
+
+

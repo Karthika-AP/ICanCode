@@ -1,1 +1,0 @@
-cancel save button fade email screen build v402 device iphone 6 plus ipad mini retina 1031 steps 1 launch login app 2 lets dashboard gets loaded 3 open servicenow details screen 4 tap email icon observe actual cancel save button fade email screen expected cancel save button fade email screen

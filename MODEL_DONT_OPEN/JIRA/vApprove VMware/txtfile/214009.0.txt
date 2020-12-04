@@ -1,1 +1,0 @@
-long ticket name getting cut details screen build v40 13th june device nexus 5x 70 steps 1 login app 2 open docusign ticket 3 go web view 4 observe actual long ticket name getting cut details screen

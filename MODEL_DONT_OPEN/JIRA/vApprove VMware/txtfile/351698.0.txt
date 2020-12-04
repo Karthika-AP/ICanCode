@@ -1,1 +1,0 @@
-view receipt link missing line items view device ipad retina build v426 steps 1 install launch app 2 login app 3 open concur ticket concur attachments 4 observe view receipt link available note view receipt link visible old build regression issue actual view receipt link missing line items view

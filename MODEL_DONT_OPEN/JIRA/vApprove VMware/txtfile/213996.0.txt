@@ -1,1 +1,0 @@
-html template missing vapprove android version build v40 13thjune device nexus 5x70 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open concur ticket 5 tap send email 6 observe actual user clicks send email button tickets details screen keypad getting opened expected keypad get opened

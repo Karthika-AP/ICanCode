@@ -1,1 +1,0 @@
-groups specific header provided preferences screen build v4211 device iphone 6 ios 11 steps 1 install launch app 2 login app 3 go preferences screen 6 observe actual groups specific header provided preferences screen expected groups specific header provided preferences screen

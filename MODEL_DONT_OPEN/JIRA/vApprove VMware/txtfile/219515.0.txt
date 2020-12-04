@@ -1,1 +1,0 @@
-improper alignment approved status build v40 27thjune device samsung galaxy j7 60 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open ticket like coupacharmppm approval chain 5 observe actual approvereject button seems bigger size compare ios expected approvereject button size consistent displayed ios

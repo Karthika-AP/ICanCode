@@ -1,1 +1,0 @@
-expanded view cards scrollable header section build 4212 device iphone 6 113 ipad mini retina 1122 steps 1 install launch app 2 login app 3 open one card multiple tickets 4 try scroll header section observe actual expanded view cards scrollable header section expected expanded view cards scrollable header section

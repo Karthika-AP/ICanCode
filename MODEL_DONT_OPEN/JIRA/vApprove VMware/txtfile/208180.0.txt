@@ -1,1 +1,0 @@
-sample itemized details display whole text build v412 device iphone 6103 steps 1 login app 2 open sample ticket others loading 3 scroll bottom general info details screen 4 tap itemized details icon 5 observe actual sample itemized details display whole text expected sample itemized details display whole text

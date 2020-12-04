@@ -1,1 +1,0 @@
-app icon displayed push notification build v4213 device mi a1 80 prerequisitesome pending approvals steps 1 install launch app 2 login app 3 put app background 4 trigger manual push 5 pull notification drawer observe actual app icon displayed push notification panel

@@ -1,1 +1,0 @@
-username getting registered kinvey push notification build v416 ios env qa device iphone 6 plusios11 steps 1 install vapprove qa build 2 launch app 3 enter vidm login credentials signin 5 check user id kinvey push notification actual username found kinvey hence push notifications working expected username get registered kinvey push notifications come sent

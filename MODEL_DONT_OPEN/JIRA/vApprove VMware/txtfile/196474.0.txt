@@ -1,1 +1,0 @@
-inconsistent ui changepoint details screen device ipad 2 user sdeswal steps 1 login app 2 open changepoint card 3 tap line items icon tap general info icon observe 4 perform tapping operation two icons multiple times observe actual inconsistent ui changepoint details screen expected ui consitent changepoint details screen

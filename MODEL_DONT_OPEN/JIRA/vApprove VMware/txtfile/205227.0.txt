@@ -1,1 +1,0 @@
-login user webview sim wifi time missing status bar builds v411 device iphone 6 1031 steps 1 launch login app 2 observe status bar actual login user web view sim wifi time missing status bar expected login user webview sim wifi time missing status bar

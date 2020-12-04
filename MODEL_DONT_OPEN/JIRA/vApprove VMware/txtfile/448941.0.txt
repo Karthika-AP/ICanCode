@@ -1,1 +1,0 @@
-user getting stuck domain selection screen build v436 vmwarevapproveqadebug7thsep2018v4222apk device moto g5 plus dhirendrag steps 1 install launch app 2 tap next button domain selection screen actual user able navigate next screen login expected user able login app

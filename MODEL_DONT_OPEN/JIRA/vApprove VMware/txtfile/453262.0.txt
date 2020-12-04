@@ -1,1 +1,0 @@
-gdr walkthrough screens header needs updated build v435 device iphone 6s ios12 env qa steps 1 install launch 2 observe second last gdr walkthrough screen 3 title support new provider new ecms new service provider actual user landed pending approval dashboard directly expected gdr walkthrough screen title update like supports gdr approvals

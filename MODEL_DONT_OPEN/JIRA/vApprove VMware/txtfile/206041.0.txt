@@ -1,1 +1,0 @@
-servicenow attachment screen requires multiple tap get closed build v411 device iphone 6103 steps 1 install login app 2 lets dashboard gets loaded 3 open seatmove ticket contains attachment 4 open attachment 5 tap close button observe

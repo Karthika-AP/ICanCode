@@ -1,1 +1,0 @@
-servicenow verify whether approver able reject service ticket 

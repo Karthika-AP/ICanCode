@@ -1,1 +1,0 @@
-field title need displayed details screen build v40 13thjune device nexus 5x70 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 open detail screen ticket 5 observe actual unnecessary field title displayed details screen expected unnecessary field title displayed details screen

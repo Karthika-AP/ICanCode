@@ -1,1 +1,0 @@
-app crashes device offline user performs pull refresh device ipad 2 user sdeswal 2 changepoint tickets need steps 1 login app 2 make device offline 3 perform pull refresh 4 observe actual app crashes device offline user performs pull refresh expected app crash device offline user performs pull refresh

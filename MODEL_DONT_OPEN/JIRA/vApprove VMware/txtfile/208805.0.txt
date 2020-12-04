@@ -1,1 +1,0 @@
-intermittent crash opening concur ticket device ipad mini retina 1031 build v413 steps 1 install launch app 2 login app 3 34 approval rejection 4 try open concur ticket observe actual intermittent crash opening concur ticket expected app never crash

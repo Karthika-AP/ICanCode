@@ -1,1 +1,0 @@
-coupa approval time getting cut partially build v4211 device moto g3 user mapped pbj steps 1 install app 2 login app 3 open detail page coups ticket id 157389 4 tap approval chain tab 5 scroll observe actual coupa approval time getting cut partially

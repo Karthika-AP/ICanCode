@@ -1,1 +1,0 @@
-able install vapprove apk rooted device build version vapproveqa7oct1card layout 29 device tested iphone 6 plus 1001 nexus 5x601 user sdeswal preconditions 1 routed device available steps reproduce 1install vapprove apk routed device 2login app actual able install vapprove apk routed device expected able install vapprove apk routed device optionsattachments

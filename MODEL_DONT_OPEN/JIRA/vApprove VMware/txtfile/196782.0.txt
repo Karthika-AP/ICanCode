@@ -1,1 +1,0 @@
-cards scrollable tappable profile activity logs screen opened device ipad retina user sdeswal steps 1 login app 2 lets dashboard gets loaded 3 tap profileactivity logs icon 4 scroll cards dashboard 5 tap card 6 observe actual entire section appears selected expected entire section selected

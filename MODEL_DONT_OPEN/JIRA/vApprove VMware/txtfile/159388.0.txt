@@ -1,1 +1,0 @@
-dell ezapprovedisclosure client id client secret api key package file mobile security assessment dell ezapprovewe found disclosure client id client secret api key package file steps reproduce 1perform strings search unzipped ipa folder strings outputtxt 2save output text file 3searcg apikeyclient id client secret key

@@ -1,1 +1,0 @@
-empty dashboard displayed move state foreground background foreground device nexus 5x700 user sdeswal steps 1 login app sdeswal 2 lets dashboard gets loaded 3 put app background 4 resume app foreground 5 observe actual empty dashboard displayed move state foreground background foreground expected data displayed without refresh access token refresh token expires

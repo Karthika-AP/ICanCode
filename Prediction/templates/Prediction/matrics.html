@@ -1,0 +1,69 @@
+{% extends "ICanCode/header.html" %}
+{% block content %}
+<style>
+ table th, table td{
+        padding: 15px; /* Apply cell padding */
+    }
+</style>
+<center>
+	<br>
+	<h1 class="h1style">PREDICTION</h1>
+	<br>
+	<div style="padding-left:0px;border-width:1px;border-style:solid;margin-left:400px;margin-right:400px" >
+		<form action="/Prediction/details/" method="post" style="padding-top:5px;">{% csrf_token %}		
+			<table style="color:black;" >
+				<tr>
+					<td style="border: 0px;border-collapse: collapse;" name="Project"><strong
+							style="color:#0000FF;font-size:18pt">Project</strong></td>
+					<td style="border: 0px;border-collapse: collapse;">
+						<select name="project" style="color:black;font-size:16pt">
+							<option value="Travelers">Travelers</option>
+						</select>
+					</td>
+				</tr>
+				<tr >
+					<td style="border: 0px;border-collapse: collapse;"><strong
+							style="color:#0000FF;font-size:18pt">LOB</strong></td>
+					<td style="border: 0px;border-collapse: collapse;">
+						<select style="color:black;font-size:16pt" name="Module">
+							{% for i in optionList %}
+							<option value={{ i }}>{{ i }}</option>
+							{% endfor %}
+						</select>
+					</td>
+				</tr>
+			</table>
+			<br>
+			<input type="submit" class="button" value="METRICS"/><br><br>
+		</form>
+	</div>
+	<br>
+	<br>
+	<br>
+	<form action="/Prediction/db/" method="post">{% csrf_token %}
+	<strong style="color:black;font-size:15pt">Download Data Sheet</strong>&emsp;&emsp;&emsp;&emsp;&emsp;
+		<select style="color:black;font-size:15pt" name="db">
+				<option value="Digital Enablement">Digital Enablement</option>			
+				<option value="Personal Insurance">Personal Insurance</option>	
+		</select>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	<input type="submit" class="button" value="DOWNLOAD" />	
+	</form>
+	
+	<br>
+	<br>
+	<form action="/Prediction/dbupdate/" method="post">{% csrf_token %}
+	<strong style="color:black;font-size:15pt">Update Data Sheet</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+		<select style="color:black;font-size:15pt" name="dbupdate">
+				<option value="Digital Enablement">Digital Enablement</option>			
+				<option value="Personal Insurance">Personal Insurance</option>	
+		</select>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	<input type="submit" class="button"value="UPDATE DB" />
+	</form>
+	<br>
+	<br>
+	<br>
+	<br>
+</center>
+
+{% endblock %}
+    

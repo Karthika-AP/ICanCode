@@ -1,1 +1,0 @@
-msg attachment readable format build v415 device iphone 6s user dhirendrag steps 1 login app 2 lets dashboard gets loaded 3 open charm ticket contains msg attachment 4 go details screen 5 tap attachment icon 6 open msg attachment observe actual msg attachment readable format expected msg attachment opened help third party library

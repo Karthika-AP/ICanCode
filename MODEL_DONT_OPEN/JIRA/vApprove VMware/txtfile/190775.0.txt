@@ -1,1 +1,0 @@
-iosthe app displays white screen user goes user profile screen build 41 device iphone 6 version 1021 steps launch app dashboard gets loaded go user profile screen observe behavior actual user taps user profile icon navigated smoothly user profile screen blank screen followed unwanted animation displayed user taps user profile screen

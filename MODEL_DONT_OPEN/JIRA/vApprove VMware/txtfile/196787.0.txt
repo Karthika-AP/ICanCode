@@ -1,1 +1,0 @@
-animation issue dashboard device ipad retina user sdeswal steps 1 login app 2 lets dashboard gets loaded 3 go preferences disable providers 4 come back dashboard 4 empty screen dashboard displayed 5 go preferences screen 6 enable service providers 7 come back dashboard screen 8 observe actual animation issue dashboard expected animation issue dashboard

@@ -1,1 +1,0 @@
-extra lines preferences screen ipad build v412 device ipad mini retina 1031 steps 1 login app 2 tap profile 3 tap preference 4 observe unwanted lines actual extra lines preferences screen ipad expected unwanted line displayed

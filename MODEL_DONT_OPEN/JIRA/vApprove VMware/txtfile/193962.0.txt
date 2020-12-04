@@ -1,1 +1,0 @@
-able see name email id profile screen build v40 8th prod may device iphone 7 steps 1 install v35 version build 2 sso login mdm certificates 3 upgrade app v40 4 tap profile icon dashboard 5 observe first card actual able see name email id profile screen expected user able see hisher name email id least data coming sociocast pick userid name email sso login

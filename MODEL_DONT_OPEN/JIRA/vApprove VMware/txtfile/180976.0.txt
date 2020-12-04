@@ -1,1 +1,0 @@
-screen components kept disabled user pulls refresh home screen build 10 device iphone 6s v1021 steps launch app home screen pull refresh spinner tap activity log icon present upper riht corner screen actual screen components kept enabled loading mask spinning

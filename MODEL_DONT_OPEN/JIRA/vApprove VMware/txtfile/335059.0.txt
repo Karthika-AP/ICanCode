@@ -1,1 +1,0 @@
-msg eml file getting opened vapprove app device iphone 6 ios 11 oneplus 2601 build v425 steps 1 install launch app 2 login app 3 open gdr quote contains msg file attachment 4 try open attachment observe actual msg eml file getting opened vapprove app expected msg eml file get opened vapprove app

@@ -1,1 +1,0 @@
-view link blue color build 27june device samsung galaxy j7 601 steps 1 login app 2 let dashboard get loaded 3 tap profile icon 4 observe icon

@@ -1,1 +1,0 @@
-push notification qa apis working following apis working 1 get scheduler status s2qamobile13070apiv1pushnotificationschedulerstatus 2 enabledisable scheduler s2qamobile13070apiv1pushnotificationschedulerstatusenablefalse 3 send notification user s2qamobile13070apiv1pushnotificationsend

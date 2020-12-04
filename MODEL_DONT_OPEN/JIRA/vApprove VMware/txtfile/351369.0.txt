@@ -1,1 +1,0 @@
-incorrect data details tab build v428 device oneplus 2601 steps 1 create gdr approval 2 submit gdr approval dhirendrag sdeswal approvers 3 open gdr details screen android device 4 observe ex quote num 498576 actual incorrect data details tab expected correct data displayed end

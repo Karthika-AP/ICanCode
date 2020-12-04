@@ -1,1 +1,0 @@
-androidn specific intermittent login error build version vapproveqa20oct1card layout 30 device tested nexus 5x 70 user sdeswal preconditions 1 vapprove card layout app installed android devices steps reproduce 1 install launch app 2 login long 3 observe actual intermittent login error expected error login expected

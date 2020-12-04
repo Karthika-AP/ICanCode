@@ -1,1 +1,0 @@
-dashboard reloads put app background relaunch app build v40 13thjune device oneplus 2 601 steps 1 install build 2 login app 3 lets dashboard gets loaded 4 put app background 5 relaunch app observe actual dashboard reloads put app background relaunch app expected dashboard reload put app background relaunch app

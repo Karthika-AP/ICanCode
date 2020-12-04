@@ -1,1 +1,0 @@
-activity logs screen getting refreshed network comes back build v424qa device samsung galaxy j7601 steps 1 install app 2 login app 3 go activity logs screen 4 disable enable internet connectivity pulldown menu 5 observe actual activity logs screen getting refreshed network comes back expected activity logs screen auto refreshed network comes back

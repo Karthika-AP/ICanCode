@@ -1,1 +1,0 @@
-html file getting opened html tags web ui device iphone 6 ios 11 build v425 steps 1 install launch app 2 login app 3 open gdr quote contains html file attachment 4 try open attachment observe actual html file getting opened html tags web ui expected html file get opened html view
