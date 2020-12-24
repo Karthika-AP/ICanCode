@@ -1,0 +1,52 @@
+{% extends "ICanCode/header.html" %}
+
+{% block content %}
+{% load static %}
+<form action="/Prediction/db/" method="post">{% csrf_token %} 
+<center>
+				<br>  
+				<h1 class="h1style">PREDICTION</h1>
+				<br>
+				<br>
+				<br>
+				<table style="color:black;width:600px;background-color:#4682B4;float:none;padding:0px;border: 1px solid black;" align="center">
+					<tr style="color:white;background-color:#4682B4;font-weight: bold;font-size:15pt;">
+						<td style="width:333px; text-align:center;border: 1px solid black;">Project</td>
+						<td style="width:333px;text-align:center;border: 1px solid black;">LOB</td>	
+					</tr>	
+					<tr style="color:white;background-color:#4682B4;font-size:15pt;">
+						<td style="width:333px; text-align:center;border: 1px solid black;">Travelers</td>
+						<td style="width:333px; text-align:center;border: 1px solid black;">{{ db_in}}</td>
+					</tr>					
+				</table>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+				
+				<a href="{{path}}"><strong style="color:black;font-size:20pt;"><u>CLICK HERE - Download DB Data Sheet as Excel</u></strong></a> 
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+				
+					
+	</center>
+</form>
+	
+				
+
+
+
+{% endblock %} 

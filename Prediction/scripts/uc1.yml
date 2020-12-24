@@ -1,0 +1,39 @@
+mysql:
+  user: root
+  password: root
+  host: 127.0.0.1
+  database: test
+
+defm: Defect_Modules
+
+urls:
+  login: '/ICanCode/login'
+  denied: '/ICanCode/denied'
+  metrics: 'Prediction/matrics.html'
+  details: 'Prediction/details.html'
+  use: 'Prediction/Prediction_dc_result.html'
+
+defm: Test
+
+DE:
+  module: Digital_Enablement
+  tn: temps
+  tncols: ['sino', 'no_of_req', 'int_testcases', 'uat_testcases', 'mo_testcases', 'prod_testcases', 'no_of_browsers', 'effort_to_fix_defect', 'complexity_of_defect_fix', 'design_review_comments', 'cost_to_fix_defect', 'impact_of_defect_fix', 'bg_severity', 'bg_priority', 'defect_count']
+  predict_cols:  ['defect_count', 'sino']
+  tn_lp: tempsnew_linear
+  tn_lp1: tempsnew_tensorflow
+
+
+table:
+  AIdd: CrestaL2_DefectDensity
+  AIdl: CrestaL2_DefectLeakage
+  uc1t: usecase1CTelephonica
+
+
+
+
+
+
+
+
+
