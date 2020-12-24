@@ -1,8 +1,0 @@
-urls:
-  login: '/ICanCode/login'
-  home: 'ICanCode/home.html'
-  denied: '/ICanCode/denied'
-  AI: "/ICanCode/"
-  cr: 'ICanCode/copyright.html'
-UN: username
-PA: password
